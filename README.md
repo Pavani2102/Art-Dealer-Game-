@@ -10,8 +10,8 @@ The Art Dealer Game is an educational card-based game that teaches computational
 
 
 **1. Download and Install:**
-- Download the ArtDealerGame.py file onto your computer.
-- No installation is needed simply double-click the .py file to launch the game.
+- Download the ArtDealerGame.exe file onto your computer.
+- No installation is needed simply double-click the .exe file to launch the game.
 
 
 **2. System Requirements:**
