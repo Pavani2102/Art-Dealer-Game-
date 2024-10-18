@@ -4,10 +4,16 @@ The Art Dealer Game is an educational card-based game that teaches computational
 
 
 **How to Play**
+
+
 **Step 1: Launching the Game**
+
+
 **1. Download and Install:**
 - Download the ArtDealerGame.exe file onto your computer.
 - No installation is needed—simply double-click the .exe file to launch the game.
+
+
 **2. System Requirements:**
 - The game is designed for Windows operating systems. If you are using a Mac or Linux, you can run the game using compatibility tools like Wine or through a virtual machine.
 
@@ -17,7 +23,11 @@ After launching, you will be prompted to select one of three difficulty levels:
 - Level 1 (K2): Designed for Kindergarten to 2nd-grade students.
 - Level 2 (Grades 3-5): For students in grades 3-5, with more challenging patterns.
 - Level 3 (Grades 6-8): For older students, offering the most complex patterns and a multiplayer mode.
+
+
 **Step 3: Gameplay Flow**
+
+
 **1. Card Selection:**
 - **Level 1 & 2:** The game acts as the 'Art Dealer' and automatically selects three random cards from a deck. As the 'Gallery Owner,' you must choose a fourth card that completes the hidden pattern.
 - **Level 3:** Two players take turns as 'Art Dealer' and 'Gallery Owner.' The 'Art Dealer' selects cards, while the 'Gallery Owner' guesses the pattern.
@@ -34,9 +44,13 @@ After launching, you will be prompted to select one of three difficulty levels:
   - The sum of the card values is 21.
 - **Level 3 Patterns:** Includes all patterns from Level 2, plus:
   - All cards are even numbers.
+
+
 **3. Winning and Losing:**
 - If your selected card matches the pattern, you win and the game celebrates with balloons!
 - If you choose incorrectly, you get up to three chances to correct your selection. If you don’t succeed in three attempts, you lose.
+
+
 **4. Replay Option:**
 - After each round, you will have the option to play again or quit the game.
 
@@ -55,6 +69,8 @@ After launching, you will be prompted to select one of three difficulty levels:
 - **Carefully Observe the Cards**: Each level has different rules. Take note of the cards to understand the patterns.
 - **Use All Your Chances**: In Levels 1 and 2, you have three chances to get it right. Use them wisely!
 - **Practice with Different Levels**: Start with Level 1 to familiarize yourself with the game, then move to higher levels for more challenging patterns.
+
+
 **Game Features**
 - **Interactive and Educational:** Designed to help students recognize mathematical and logical patterns.
 - **Multiple Difficulty Levels:** Three levels to cater to different age groups and skill levels.
