@@ -1,55 +1,70 @@
 **Art Dealer Game
 Overview**
-The **Art Dealer Game** is a fun and interactive card-based game designed to promote computational thinking and pattern recognition in K-8 students. Players act as art buyers choosing paintings (represented by playing cards) from a gallery. The goal is to identify hidden patterns in the cards to win the game. There are three levels of difficulty tailored to different grade levels.
+The Art Dealer Game is an educational card-based game that teaches computational thinking, mathematical patterns, and logical reasoning. Designed for K-8 students, players act as gallery owners selecting paintings (represented by playing cards) and must identify hidden patterns to win the game. The game has three difficulty levels, each suited to different age groups and offering more complex patterns as the levels progress.
 
-**Gameplay
-Select a Difficulty Level**: The game offers three levels of difficulty:
-Level 1: Suitable for Kindergarten to Grade 2.
-Level 2: Designed for Grades 3 to 5.
-Level 3: For students in Grades 6 to 8.
-**Card Deck**: The game uses a standard deck of cards with four suits (Spades, Hearts, Clubs, Diamonds) and thirteen ranks (Ace to King).
-**Pattern Matching**: Players are tasked with selecting cards that match specific hidden patterns, which may include:
-Matching red or black suits.
-Using prime numbers.
-Ensuring all numbers are even.
-Ensuring card values total 21.
-**Winning the Game**: If the selected cards match the pattern, the player wins, and a balloon celebration is triggered.
-**Multiple Rounds**: After each round, players can choose to play again or exit the game.
-**Key Features**
-**Randomized Card Selection**: Cards are shuffled and chosen randomly in every round, making each game unique.
-**Interactive Experience**: The game features an interactive display with visual feedback and celebratory ASCII art.
-**Adaptive for All Grades**: Players can select different levels based on their grade.
-**Pattern Recognition**: The game encourages critical thinking by challenging players to recognize and match hidden patterns.
-**How to Install and Play**
-The Art Dealer Game is available as an executable file, eliminating the need for additional software installation.
+**How to Play
+Step 1: Launching the Game
+Download and Install:**
 
-**Windows Instructions**:
-**Download the Game**: Obtain the ArtDealerGame.exe file.
-**Run the Game**: Double-click on ArtDealerGame.exe to launch the game.
-**Follow the Prompts**: Once the game starts, follow the on-screen instructions to make your selections and uncover the hidden patterns.
-Mac/Linux Instructions:
-Currently, the game is only available for Windows. To play on Mac or Linux, you can use a compatibility tool like Wine or run the game in a virtual machine with Windows.
+Download the ArtDealerGame.exe file onto your computer.
+No installation is needed—simply double-click the .exe file to launch the game.
+System Requirements:
 
-**Game Progression**
-**Game Launch**: After launching the game, you'll be greeted with the game's logo and intro.
-**Select Difficulty**: Choose your desired level of difficulty (1, 2, or 3).
-**Card Selection**: You will be presented with a set of cards from which to choose.
-**Pattern Checking**: The game will evaluate your selections based on pre-set hidden patterns.
-**Victory or Retry**: If your selections match a pattern, you'll win! Otherwise, you can retry or start a new round.
-**Hidden Patterns**
-The game uses the following card patterns for winning:
+The game is designed for Windows operating systems. If you are using a Mac or Linux, you can run the game using compatibility tools like Wine or through a virtual machine.
+**Step 2: Choose a Level**
+After launching the game, you will be prompted to select a difficulty level:
 
-**Pattern 1**: All selected cards are red (Hearts or Diamonds).
-**Pattern 2**: All selected cards are black (Spades or Clubs).
-**Pattern 4**: All selected cards have the same number but belong to different suits.
-**Pattern 5**: All selected cards are prime numbers (2, 3, 5, 7).
-**Pattern 6**: All selected cards have even values but different suits.
-**Pattern 7**: The total value of all selected cards is 21.
-**Troubleshooting**
-If the game doesn’t start, ensure you are using a Windows operating system or a compatible emulator like Wine for Mac/Linux.
-If you encounter any errors or missing files, try re-downloading the game and make sure permissions are set correctly to run executable files.
-**License**
-This game is distributed as free software for educational use. It may be used in classrooms or for personal learning.
+**Level 1 (K2)**: Designed for Kindergarten to 2nd-grade students.
+**Level 2 (Grades 3-5)**: For students in grades 3-5, with more challenging patterns.
+**Level 3 (Grades 6-8)**: For older students, offering the most complex patterns and a multiplayer mode.
+**Step 3: Gameplay Flow**
+**Card Selection:**
 
-**Author**
-The Art Dealer Game was created to help K-8 students develop computational thinking and problem-solving skills through engaging and interactive gameplay.
+**Level 1 & 2**: The game acts as the "Art Dealer" and automatically selects three random cards from a standard deck. As the "Gallery Owner," you must choose a fourth card that completes the hidden pattern.
+**Level 3**: Two players take turns as "Art Dealer" and "Gallery Owner." The "Art Dealer" selects cards, while the "Gallery Owner" guesses the pattern.
+Identifying the Pattern:
+
+**Level 1 Patterns**:
+All cards are red (Hearts or Diamonds).
+All cards are black (Spades or Clubs).
+All cards have the same suit.
+**Level 2 Patterns**: In addition to the patterns from Level 1:
+All cards have the same number.
+All cards are prime numbers (2, 3, 5, or 7).
+The sum of the card values is 21.
+**Level 3 Patterns**: Includes all patterns from Level 2, plus:
+All cards are even numbers.
+**Winning and Losing**:
+
+If your selected card matches the pattern, you win and the game celebrates with balloons!
+If you choose incorrectly, you get up to three chances to correct your selection. If you don’t succeed in three attempts, you lose.
+**Replay Option**:
+
+After each round, you will have the option to play again or quit the game.
+**Understanding the Patterns**
+Red Cards Pattern: All cards are Hearts or Diamonds.
+Black Cards Pattern: All cards are Spades or Clubs.
+Same Suit Pattern: All cards have the same suit (e.g., all cards are Hearts).
+Same Number Pattern: All cards have the same number (e.g., all cards are "7").
+Prime Numbers Pattern: All selected cards are prime numbers (2, 3, 5, or 7).
+Sum Equals 21 Pattern: The total value of the cards equals 21.
+Even Numbers Pattern (Level 3): All selected cards are even numbers (e.g., 2, 4, 6).
+**Tips for Success**
+**Carefully Observe the Cards**: Each level has different rules. Take note of the cards to understand the patterns.
+**Use All Your Chances**: In Levels 1 and 2, you have three chances to get it right. Use them wisely!
+**Practice with Different Levels**: Start with Level 1 to familiarize yourself with the game, then move to higher levels for more challenging patterns.
+Game Features
+**Interactive and Educational**: Designed to help students recognize mathematical and logical patterns.
+**Multiple Difficulty Levels**: Three levels to cater to different age groups and skill levels.
+**Fun Visuals**: Includes visual celebrations like balloons when you win.
+**Multiplayer Option**: In Level 3, two players can take turns in the roles of "Art Dealer" and "Gallery Owner."
+**Troubleshooting
+Game Not Opening**:
+
+Ensure your system is running Windows or a compatible environment (such as Wine for Mac/Linux users).
+If the game doesn’t open, check for any security permissions that may be blocking the executable.
+**Pattern Issues**:
+
+Make sure you understand the rules for each level to match the correct pattern.
+**Conclusion**
+The Art Dealer Game is a creative and engaging tool to help students develop critical thinking skills. Its simple interface, coupled with mathematical and logical challenges, makes learning fun for students from Kindergarten to Grade 8. Whether playing solo or with friends, the game offers endless opportunities to improve pattern recognition and problem-solving.
